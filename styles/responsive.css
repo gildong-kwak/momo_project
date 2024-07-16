@@ -1,0 +1,9 @@
+@media screen and (max-width:1000px) {
+    header nav {display: none;}
+    header .snb {display: none;}
+    header {justify-content: center;}
+    main .banner {margin: 50px;}
+}/* 768~1000 */
+@media screen and (max-width:576px) {
+    main .banner {margin: 30px;}
+}/* 576~768 */
